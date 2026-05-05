@@ -555,18 +555,18 @@
       "condition": "在以下所有场景的3个自贩机中买到饮料：Dense Woods A、Hell、Docks A"
     },
     "stabbing_room": {
-      "name": "By My Blade",
-      "description": "One down, more to go",
-      "condition": "Enter the Stabbing Room"
+      "name": "利刃下",
+      "description": "一个倒下了，还有很多个等着我。",
+      "condition": "进入Stabbing Room"
     },
     "footprint_path_mouth_things": {
-      "name": "Destiny to Bleed",
-      "description": "Do they like their fate?",
-      "condition": "Interact with all the creatures that open their mouths in Footprint Path B"
+      "name": "血色命运",
+      "description": "他们喜欢自己的命运吗？",
+      "condition": "在Footprint Path B跟所有生物交互"
     },
     "medamaude_return": {
-      "name": "In a blink of an eye, you're back at the Nexus!",
-      "description": "Obtain the Medamaude effect. If you have already obtained it, return to Eyeball World."
+      "name": "眨眼间回到众门之心",
+      "description": "获得眼球手(Medamaude)效果。若已获得该效果，请返回Eyeball World."
     }
   },
   "2kki": {
@@ -8357,94 +8357,94 @@
       "condition": "在Electromagnetic Terminal逃离追逐着并进入停车场区域"
     },
     "knit_plains_visit": {
-      "name": "A Dice of My Own",
-      "description": "Smells like Grandma's house.",
-      "condition": "Visit Knit Plains"
+      "name": "我的骰子",
+      "description": "闻起来像奶奶家",
+      "condition": "抵达Knit Plains"
     },
     "sheltered_drains_visit": {
-      "name": "Covering",
-      "description": "The rust is spreading, so are you.",
-      "condition": "Visit Sheltered Drains"
+      "name": "遮",
+      "description": "锈蚀随着意识蔓延",
+      "condition": "抵达Sheltered Drains"
     },
     "paper_stario_tower": {
-      "name": "Shining Atop The Thousand-Year Spire",
-      "description": "Scale this tower, and you may find something amazing...",
-      "condition": "Visit Crystal Star Tower"
+      "name": "千年塔顶的闪耀",
+      "description": "继续攀登下去，你可能会找到些美妙的东西...",
+      "condition": "抵达Crystal Star Tower"
     },
     "floating_catacomb_stare": {
-      "name": "Temple Eyes",
-      "description": "Don't stare for too long...",
-      "condition": "See the strange eyes in Floating Catacombs"
+      "name": "庙眼",
+      "description": "别盯太久...",
+      "condition": "在Floating Catacombs看到怪异眼睛"
     },
     "dysmorphia_scary_lady": {
-      "name": "Karma",
-      "description": "If I turn around, I'm going to die.",
-      "condition": "See the red woman's face in the event in Dysmorphia B after killing Mother in Urotsuki's Dream Apartments"
+      "name": "因果",
+      "description": "转身就会死",
+      "condition": "在Urotsuki's Dream Apartments杀死“母亲”后，于Dysmorphia B观看绯色淑女事件"
     },
     "glitchy_blue_uro_mask": {
-      "name": "LOST SIGNAL",
+      "name": "信号丢失",
       "description": "kwwsv://gulyh.jrrjoh.frp/xf?hasruw=ylhz&lg=1nwJ1gqZTIf9HvPJyPuiDmwaRPE7qsijX",
-      "condition": "Equip the Signal mask in Binding Site"
+      "condition": "在Binding Site戴上蓝色信号面具"
     },
     "uv_uro_got_sunburned": {
-      "name": "Beyond Sunburnt",
-      "description": "This is what happens when you don't wear your sunscreen...",
-      "condition": "Equip the Ultraviolet Urotsuki mask in Red Sun Outlook"
+      "name": "超越晒伤",
+      "description": "不涂太阳油的后果。",
+      "condition": "在Red Sun Outlook戴上紫外线面具"
     },
     "darkwoven_void_visit": {
-      "name": "What Once Was A World",
-      "description": "Now covered in darkness. ",
-      "condition": "Visit the Darkwoven Void"
+      "name": "曾经的世界",
+      "description": "已被黑暗笼罩。",
+      "condition": "抵达Darkwoven Void"
     },
     "jump_rope_time": {
-      "name": "Smiling Critter",
-      "description": "The numbers, what do they mean!?",
-      "condition": "Score 12 points at the jump rope minigame in Critter Village"
+      "name": "微笑小动物",
+      "description": "这些数字代表着什么！？",
+      "condition": "在Critter Village跳绳游戏中获得12分"
     },
     "runic_ruins_ruined_visit": {
-      "name": "Ancient Runes",
-      "description": "Too much knowledge can be a burden.",
-      "condition": "Visit Runic Ruins"
+      "name": "古符文",
+      "description": "知识，拥有太多反而成了一扇屏障",
+      "condition": "抵达Runic Ruins"
     },
     "marble_penumbra": {
-      "name": "Solaris & Lunaris",
-      "description": "Orion above the trees blazed across the night, sparks of the snow land back on my hands.",
-      "condition": "View the Sun and Moon clock in the Marble Ruins"
+      "name": "日月明",
+      "description": "划破夜空的星座，化作火花落到我手中",
+      "condition": "在Marble Ruins看到日月钟"
     },
     "restore_color_in_the_ocean": {
-      "name": "Restoring Life",
-      "description": "Isn't life better with colors?",
+      "name": "恢复生命",
+      "description": "生命就该多一抹色彩",
       "condition": "Interact with the creature that restores the color in Amethyst Ocean"
     },
     "freefall_tsuki": {
-      "name": "???-tsuki's Descent",
-      "description": "FREEDOM DIVEEEEE!",
-      "condition": "Trigger the ???-tsuki's Descent event in Second Nexus"
+      "name": "???-tsuki的自由落体运动",
+      "description": "FREEDOM DiVEEEEEE!!!",
+      "condition": "在Second Nexus触发???-tsuki坠落事件"
     },
     "big_uro_room_visit": {
-      "name": "Honey I Shrunk The Dreamers",
-      "description": "Lost in my own room... At least I have my fuzzy little buddy to keep me company.",
-      "condition": "Visit Jumbo Room"
+      "name": "亲爱的我把梦游病患者缩小了",
+      "description": "我在自己房间迷路了！",
+      "condition": "抵达Jumbo Room"
     },
     "corrupted_lovesickness": {
-      "name": "Lovesick",
-      "description": "Love is a contagious lie.",
-      "condition": "Visit the main area of Corrupted Love World"
+      "name": "相思",
+      "description": "爱，是会传染的谎言",
+      "condition": "抵达Corrupted Love World的主区域"
     },
     "amoeba_maze_end": {
-      "name": "Exiting The Forest is Super Simple",
-      "description": "Super Yume 2kki RPG, it is the only one just for me...",
+      "name": "离开森林超级简单",
+      "description": "超级梦二记RPG",
       "condition": "Reach the end of the teleport maze in Amoeba Woods"
     },
     "chainsaw_overwork": {
-      "name": "Neil The Seal",
-      "description": "Violence is not the answer.",
-      "condition": "Chainsaw the seal in Overwork Office"
+      "name": "海豹Neil",
+      "description": "暴力不是答案",
+      "condition": "在Overwork Office锯死海豹"
     },
     "ch_visit_water_worlds": {
-      "name": "Everlasting Reef",
-      "description": "You feel safe swimming with the fish?",
-      "condition": "Visit the following cute water worlds: Pastel Dream Sea, Alrescha Sea, Peaceful Shoal, Watching Waters, Calcarina Sea, Azure Depths, Atlantis, Neon Sea, Coral Shoal, Goldfish Pond, Flowery Ponds, Pastel Pools, Elysium Pools",
+      "name": "永恒礁",
+      "description": "陪着鱼儿玩，你觉得安全吗？",
+      "condition": "抵达以下可爱水世界: Pastel Dream Sea, Alrescha Sea, Peaceful Shoal, Watching Waters, Calcarina Sea, Azure Depths, Atlantis, Neon Sea, Coral Shoal, Goldfish Pond, Flowery Ponds, Pastel Pools, Elysium Pools",
       "checkbox": {
         "alrescha_sea": "Alrescha Sea",
         "atlantis": "Atlantis",
@@ -8462,19 +8462,19 @@
       }
     },
     "crossing_singing_fox": {
-      "name": "Rap Fox",
-      "description": "What I gotta get it through to you I'm supervixen?",
-      "condition": "Use the Crossing effect near the singing fox in Celestial Night"
+      "name": "说唱狐狸",
+      "description": "请输入超燃说唱片段（我得让你知道，我是超级狐狸精！）",
+      "condition": "在Celestial Night对狐狸使用平交道(Crossing)效果"
     },
     "lotus_park_vm_cake": {
-      "name": "Rain Cake",
-      "description": "the rain is falling down, drip drop, drip drop, splashing all around",
+      "name": "雨滴糕",
+      "description": "滴答滴答下雨啦",
       "condition": "Get a raindrop cake from the vending machine in Lotus Park"
     },
     "menu_theme_91": {
-      "name": "The Lady's Tome",
-      "description": "Hi there...",
-      "condition": "Obtain Menu Theme #91 in Highway. If already obtained, return to the room where you have done so."
+      "name": "诡异长发女的小本本",
+      "description": "尊享九一菜单主题",
+      "condition": "获得菜单主题#91，如已获得，请返回主题所在的房间"
     },
     "urotsuki_statue_olympic": {
       "name": "Marble Urotsuki Statue",
@@ -8512,12 +8512,12 @@
       "condition": "Enter Faraway Lands"
     },
     "visit_hemlock_lab": {
-      "name": "Virulent Remedies",
-      "description": "Seek the cure with sickness.",
-      "condition": "Visit Hemlock Lab"
+      "name": "毒芹",
+      "description": "剧毒中寻求解药",
+      "condition": "抵达Hemlock Lab"
     },
     "visit_pit_to_hell": {
-      "name": "\"Hot\" Tub",
+      "name": "\"热\" 水澡",
       "description": "Here Lies Urotsuki, You Can Tell It's Her Because She's Having so Much Fun Swimming She Doesn't Even Realize She's in Hell.",
       "condition": "Visit Pit to Hell"
     },
